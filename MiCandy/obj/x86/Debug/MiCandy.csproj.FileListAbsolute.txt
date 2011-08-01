@@ -1,0 +1,15 @@
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\bin\Debug\MiCandy.exe
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\bin\Debug\MiCandy.pdb
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\obj\x86\Debug\MainWindow.baml
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\obj\x86\Debug\MainWindow.g.cs
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\obj\x86\Debug\App.g.cs
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\obj\x86\Debug\MiCandy_MarkupCompile.cache
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\obj\x86\Debug\MiCandy.g.resources
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\obj\x86\Debug\MiCandy.Properties.Resources.resources
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\obj\x86\Debug\MiCandy.exe
+C:\NemFiles\LABS\Kinect\MiCandy\MiCandy\obj\x86\Debug\MiCandy.pdb
+C:\NemFiles\LABS\Kinect\MY HAX\MiCandy\MiCandy\obj\x86\Debug\MiCandy.exe
+C:\NemFiles\LABS\Kinect\MY HAX\MiCandy\MiCandy\obj\x86\Debug\MiCandy.pdb
